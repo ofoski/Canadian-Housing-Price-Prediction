@@ -13,3 +13,5 @@ This project focuses on predicting house prices across Canadian cities using mac
 - Tuned hyperparameters using `Hyperopt` with 5-fold cross-validation
 - Evaluated model performance (R² = 0.70 on both train and test sets)
 - Used SHAP values, permutation importance, and PDP plots to explain the model
+
+![wordcloud_libraries](https://github.com/user-attachments/assets/b8069341-1e40-40cf-acde-e50499549f32)
